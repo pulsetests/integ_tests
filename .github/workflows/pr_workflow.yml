@@ -8,4 +8,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Run tests
-        run: echo "Running tests for PR #${{ github.event.pull_request.number }}"
+        run: "echo \"Running tests for PR #${{ github.event.pull_request.number }}\""
