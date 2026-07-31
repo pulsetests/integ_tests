@@ -1,2 +1,2 @@
 # integ_tests
-Repo for running integration tests on github pulse.
+Repo for running integration tests on Github pulse.
